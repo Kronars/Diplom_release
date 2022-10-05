@@ -1,0 +1,219 @@
+diam	pitch	short_name	stats_detail_file	full_name	side_pic	front_pic
+8.5	6.0	ance	ance_8.5x6_static_2848cm.txt	ance_8.5x6		
+8.5	7.0	ance	ance_8.5x7_static_2875cm.txt	ance_8.5x7		
+10.0	12.0	ancf	ancf_10x12_static_0754od.txt	ancf_10x12		
+10.0	4.0	ancf	ancf_10x4_static_0273od.txt	ancf_10x4		
+10.0	5.0	ancf	ancf_10x5_static_0755od.txt	ancf_10x5		
+10.0	6.0	ancf	ancf_10x6_static_0729od.txt	ancf_10x6		
+10.0	7.0	ancf	ancf_10x7_static_0736od.txt	ancf_10x7		
+10.0	8.0	ancf	ancf_10x8_static_0762od.txt	ancf_10x8		
+11.0	10.0	ancf	ancf_11x10_static_0837od.txt	ancf_11x10		
+11.0	12.0	ancf	ancf_11x12_static_0904od.txt	ancf_11x12		
+11.0	4.0	ancf	ancf_11x4_static_0823od.txt	ancf_11x4		
+11.0	6.0	ancf	ancf_11x6_static_0874od.txt	ancf_11x6		
+11.0	7.0	ancf	ancf_11x7_static_0854od.txt	ancf_11x7		
+11.0	8.0	ancf	ancf_11x8_static_0846od.txt	ancf_11x8		
+12.0	10.0	ancf	ancf_12x10_static_0720od.txt	ancf_12x10		
+12.0	13.0	ancf	ancf_12x13_static_0780od.txt	ancf_12x13		
+12.0	5.0	ancf	ancf_12x5_static_0789od.txt	ancf_12x5		
+12.0	6.0	ancf	ancf_12x6_static_0721od.txt	ancf_12x6		
+12.0	8.0	ancf	ancf_12x8_static_0696od.txt	ancf_12x8		
+12.0	9.0	ancf	ancf_12x9_static_0771od.txt	ancf_12x9		
+13.0	10.0	ancf	ancf_13x10_static_0592od.txt	ancf_13x10		
+13.0	11.0	ancf	ancf_13x11_static_0814od.txt	ancf_13x11		
+13.0	5.0	ancf	ancf_13x5_static_0603od.txt	ancf_13x5		
+13.0	8.0	ancf	ancf_13x8_static_0581od.txt	ancf_13x8		
+14.0	12.0	ancf	ancf_14x12_static_0958od.txt	ancf_14x12		
+14.0	6.0	ancf	ancf_14x6_static_0932od.txt	ancf_14x6		
+14.0	8.0	ancf	ancf_14x8_static_0942od.txt	ancf_14x8		
+14.0	9.0	ancf	ancf_14x9_static_0949od.txt	ancf_14x9		
+15.0	10.0	ancf	ancf_15x10_static_0982od.txt	ancf_15x10		
+15.0	6.0	ancf	ancf_15x6_static_0967od.txt	ancf_15x6		
+15.0	8.0	ancf	ancf_15x8_static_0975od.txt	ancf_15x8		
+16.0	6.0	ancf	ancf_16x6_static_0991od.txt	ancf_16x6		
+16.0	8.0	ancf	ancf_16x8_static_0997od.txt	ancf_16x8		
+9.0	4.0	ancf	ancf_9x4_static_0889od.txt	ancf_9x4		
+9.0	5.0	ancf	ancf_9x5_static_0882od.txt	ancf_9x5		
+9.0	6.0	ancf	ancf_9x6_static_0875od.txt	ancf_9x6		
+9.0	7.0	ancf	ancf_9x7_static_0836od.txt	ancf_9x7		
+9.0	4.0	apc29ff	apc29ff_9x4_static_2534rd.txt	apc29ff_9x4		
+9.0	5.0	apc29ff	apc29ff_9x5_static_kt1025.txt	apc29ff_9x5	apc29ff_9x5-side.png	apc29ff_9x5-front.png
+7.4	8.25	apccf	apccf_7.4x8.25_static_2883cm.txt	apccf_7.4x8.25		
+7.8	6.0	apccf	apccf_7.8x6_static_2825cm.txt	apccf_7.8x6		
+7.8	7.0	apccf	apccf_7.8x7_static_2833cm.txt	apccf_7.8x7		
+10.0	5.0	apce	apce_10x5_static_pg0819.txt	apce_10x5	apce_10x5-side.png	apce_10x5-front.png
+10.0	7.0	apce	apce_10x7_static_pg0811.txt	apce_10x7	apce_10x7-side.png	apce_10x7-front.png
+11.0	10.0	apce	apce_11x10_static_pg0460.txt	apce_11x10	apce_11x10-side.png	apce_11x10-front.png
+11.0	5.5	apce	apce_11x5.5_static_kt0467.txt	apce_11x5.5	apce_11x5.5-side.png	apce_11x5.5-front.png
+11.0	7.0	apce	apce_11x7_static_kt0534.txt	apce_11x7	apce_11x7-side.png	apce_11x7-front.png
+11.0	8.5	apce	apce_11x8.5_static_jb0452.txt	apce_11x8.5	apce_11x8.5-side.png	apce_11x8.5-front.png
+11.0	8.0	apce	apce_11x8_static_kt0517.txt	apce_11x8	apce_11x8-side.png	apce_11x8-front.png
+14.0	12.0	apce	apce_14x12_static_kt1063.txt	apce_14x12	apce_14x12-side.png	apce_14x12-front.png
+17.0	12.0	apce	apce_17x12_static_jb1091.txt	apce_17x12	apce_17x12-side.png	apce_17x12-front.png
+19.0	12.0	apce	apce_19x12_static_jb1078.txt	apce_19x12	apce_19x12-side.png	apce_19x12-front.png
+8.0	4.0	apce	apce_8x4_static_2791rd.txt	apce_8x4		
+8.0	6.0	apce	apce_8x6_static_2797rd.txt	apce_8x6		
+8.0	8.0	apce	apce_8x8_static_2805rd.txt	apce_8x8		
+9.0	4.5	apce	apce_9x4.5_static_rd0995.txt	apce_9x4.5	apce_9x4.5-side.png	apce_9x4.5-front.png
+9.0	6.0	apce	apce_9x6_static_rd0987.txt	apce_9x6	apce_9x6-side.png	apce_9x6-front.png
+9.0	7.5	apce	apce_9x7.5_static_2545rd.txt	apce_9x7.5		
+9.0	9.0	apce	apce_9x9_static_2492rd.txt	apce_9x9		
+4.2	4.0	apcff	apcff_4.2x4_static_0615rd.txt	apcff_4.2x4	apcff_4.2x4-side.png	apcff_4.2x4-front.png
+9.0	4.0	apcff	apcff_9x4_static_1016rd.txt	apcff_9x4	apcff_9x4-side.png	apcff_9x4-front.png
+10.0	4.7	apcsf	apcsf_10x4.7_static_kt0835.txt	apcsf_10x4.7	apcsf_10x4.7-side.png	apcsf_10x4.7-front.png
+10.0	7.0	apcsf	apcsf_10x7_static_kt0827.txt	apcsf_10x7	apcsf_10x7-side.png	apcsf_10x7-front.png
+11.0	3.8	apcsf	apcsf_11x3.8_static_kt0542.txt	apcsf_11x3.8	apcsf_11x3.8-side.png	apcsf_11x3.8-front.png
+11.0	4.7	apcsf	apcsf_11x4.7_static_pg0526.txt	apcsf_11x4.7	apcsf_11x4.7-side.png	apcsf_11x4.7-front.png
+11.0	7.0	apcsf	apcsf_11x7_static_kt0632.txt	apcsf_11x7	apcsf_11x7-side.png	apcsf_11x7-front.png
+8.0	3.8	apcsf	apcsf_8x3.8_static_2777rd.txt	apcsf_8x3.8		
+8.0	6.0	apcsf	apcsf_8x6_static_2783rd.txt	apcsf_8x6		
+9.0	3.8	apcsf	apcsf_9x3.8_static_2553rd.txt	apcsf_9x3.8		
+9.0	4.7	apcsf	apcsf_9x4.7_static_kt1032.txt	apcsf_9x4.7	apcsf_9x4.7-side.png	apcsf_9x4.7-front.png
+9.0	6.0	apcsf	apcsf_9x6_static_kt0979.txt	apcsf_9x6	apcsf_9x6-side.png	apcsf_9x6-front.png
+9.0	7.5	apcsf	apcsf_9x7.5_static_2567rd.txt	apcsf_9x7.5		
+10.0	10.0	apcsp	apcsp_10x10_static_2665rd.txt	apcsp_10x10		
+10.0	3.0	apcsp	apcsp_10x3_static_2643rd.txt	apcsp_10x3		
+10.0	4.0	apcsp	apcsp_10x4_static_2644rd.txt	apcsp_10x4		
+10.0	5.0	apcsp	apcsp_10x5_static_2651rd.txt	apcsp_10x5		
+10.0	6.0	apcsp	apcsp_10x6_static_pg0802.txt	apcsp_10x6	apcsp_10x6-side.png	apcsp_10x6-front.png
+10.0	7.0	apcsp	apcsp_10x7_static_2654rd.txt	apcsp_10x7		
+10.0	8.0	apcsp	apcsp_10x8_static_pg0794.txt	apcsp_10x8	apcsp_10x8-side.png	apcsp_10x8-front.png
+10.0	9.0	apcsp	apcsp_10x9_static_2664rd.txt	apcsp_10x9		
+11.0	3.0	apcsp	apcsp_11x3_static_3015ja.txt	apcsp_11x3		
+11.0	4.0	apcsp	apcsp_11x4_static_kt0503.txt	apcsp_11x4	apcsp_11x4-side.png	apcsp_11x4-front.png
+11.0	5.0	apcsp	apcsp_11x5_static_rd0496.txt	apcsp_11x5	apcsp_11x5-side.png	apcsp_11x5-front.png
+11.0	6.0	apcsp	apcsp_11x6_static_rd0488.txt	apcsp_11x6	apcsp_11x6-side.png	apcsp_11x6-front.png
+11.0	7.0	apcsp	apcsp_11x7_static_kt0473.txt	apcsp_11x7	apcsp_11x7-side.png	apcsp_11x7-front.png
+11.0	8.0	apcsp	apcsp_11x8_static_pg0616.txt	apcsp_11x8	apcsp_11x8-side.png	apcsp_11x8-front.png
+11.0	9.0	apcsp	apcsp_11x9_static_pg0624.txt	apcsp_11x9	apcsp_11x9-side.png	apcsp_11x9-front.png
+14.0	13.0	apcsp	apcsp_14x13_static_jb1048.txt	apcsp_14x13	apcsp_14x13-side.png	apcsp_14x13-front.png
+4.2	2.0	apcsp	apcsp_4.2x2_static_0597rd.txt	apcsp_4.2x2	apcsp_4.2x2-side.png	apcsp_4.2x2-front.png
+7.0	6.0	apcsp	apcsp_7x6_static_2930cm.txt	apcsp_7x6		
+7.0	9.0	apcsp	apcsp_7x9_static_2897cm.txt	apcsp_7x9		
+8.0	10.0	apcsp	apcsp_8x10_static_2731rd.txt	apcsp_8x10		
+8.0	4.0	apcsp	apcsp_8x4_static_2681rd.txt	apcsp_8x4		
+8.0	5.0	apcsp	apcsp_8x5_static_2687rd.txt	apcsp_8x5		
+8.0	6.0	apcsp	apcsp_8x6_static_2696rd.txt	apcsp_8x6		
+8.0	7.0	apcsp	apcsp_8x7_static_2704rd.txt	apcsp_8x7		
+8.0	8.0	apcsp	apcsp_8x8_static_2712rd.txt	apcsp_8x8		
+8.0	9.0	apcsp	apcsp_8x9_static_2720rd.txt	apcsp_8x9		
+9.0	10.0	apcsp	apcsp_9x10_static_2513rd.txt	apcsp_9x10		
+9.0	6.0	apcsp	apcsp_9x6_static_0758ga.txt	apcsp_9x6	apcsp_9x6-side.png	apcsp_9x6-front.png
+9.0	6.0	apcsp	apcsp_9x6_static_2532rd.txt	apcsp_9x6	apcsp_9x6-side.png	apcsp_9x6-front.png
+9.0	7.0	apcsp	apcsp_9x7_static_kt1009.txt	apcsp_9x7	apcsp_9x7-side.png	apcsp_9x7-front.png
+9.0	8.0	apcsp	apcsp_9x8_static_2530rd.txt	apcsp_9x8		
+9.0	9.0	apcsp	apcsp_9x9_static_2504rd.txt	apcsp_9x9		
+5.0	1.58	da4002	da4002_5x1.58_static_1137ga.txt	da4002_5x1.58		
+5.0	2.65	da4002	da4002_5x2.65_static_1126rd.txt	da4002_5x2.65		
+5.0	3.75	da4002	da4002_5x3.75_static_1121md.txt	da4002_5x3.75	da4002_5x3.75-side.png	da4002_5x3.75-front.png
+5.0	4.92	da4002	da4002_5x4.92_static_1190ga.txt	da4002_5x4.92		
+9.0	2.85	da4002	da4002_9x2.85_static_1115ga.txt	da4002_9x2.85		
+9.0	4.76	da4002	da4002_9x4.76_static_1120ga.txt	da4002_9x4.76		
+9.0	6.75	da4002	da4002_9x6.75_static_1107rd.txt	da4002_9x6.75	da4002_9x6.75-side.png	da4002_9x6.75-front.png
+9.0	8.95	da4002	da4002_9x8.95_static_1092rd.txt	da4002_9x8.95		
+5.0	3.75	da4022	da4022_5x3.75_static_0642rb.txt	da4022_5x3.75	da4022_5x3.75-side.png	da4022_5x3.75-front.png
+9.0	6.75	da4022	da4022_9x6.75_static_0767rd.txt	da4022_9x6.75	da4022_9x6.75-side.png	da4022_9x6.75-front.png
+5.0	1.58	da4052	da4052_5x1.58_static_1160rd.txt	da4052_5x1.58		
+5.0	2.65	da4052	da4052_5x2.65_static_1142ga.txt	da4052_5x2.65		
+5.0	3.75	da4052	da4052_5x3.75_3b_static_1204ga.txt	da4052_5x3.75_3b		
+5.0	3.75	da4052	da4052_5x3.75_4b_static_1214rd.txt	da4052_5x3.75_4b		
+5.0	3.75	da4052	da4052_5x3.75_static_1131ga.txt	da4052_5x3.75	da4052_5x3.75-side.png	da4052_5x3.75-front.png
+5.0	4.92	da4052	da4052_5x4.92_static_1175md.txt	da4052_5x4.92		
+9.0	2.85	da4052	da4052_9x2.85_static_1055rd.txt	da4052_9x2.85		
+9.0	4.76	da4052	da4052_9x4.76_static_1060rd.txt	da4052_9x4.76		
+9.0	6.75	da4052	da4052_9x6.75_3b_static_1080ga.txt	da4052_9x6.75_3b		
+9.0	6.75	da4052	da4052_9x6.75_static_1041rd.txt	da4052_9x6.75	da4052_9x6.75-side.png	da4052_9x6.75-front.png
+9.0	8.95	da4052	da4052_9x8.95_static_1066ga.txt	da4052_9x8.95		
+10.0	6.0	grcp	grcp_10x6_static_rd0851.txt	grcp_10x6	grcp_10x6-side.png	grcp_10x6-front.png
+10.0	8.0	grcp	grcp_10x8_static_rd0843.txt	grcp_10x8	grcp_10x8-side.png	grcp_10x8-front.png
+11.0	4.0	grcp	grcp_11x4_static_rd0550.txt	grcp_11x4	grcp_11x4-side.png	grcp_11x4-front.png
+11.0	6.0	grcp	grcp_11x6_static_rd0556.txt	grcp_11x6	grcp_11x6-side.png	grcp_11x6-front.png
+11.0	8.0	grcp	grcp_11x8_static_kt0641.txt	grcp_11x8	grcp_11x8-side.png	grcp_11x8-front.png
+9.0	4.0	grcp	grcp_9x4_static_rd0923.txt	grcp_9x4	grcp_9x4-side.png	grcp_9x4-front.png
+9.0	6.0	grcp	grcp_9x6_static_pg0915.txt	grcp_9x6	grcp_9x6-side.png	grcp_9x6-front.png
+10.0	6.0	grcsp	grcsp_10x6_static_jb0867.txt	grcsp_10x6	grcsp_10x6-side.png	grcsp_10x6-front.png
+10.0	8.0	grcsp	grcsp_10x8_static_jb0859.txt	grcsp_10x8	grcsp_10x8-side.png	grcsp_10x8-front.png
+9.0	5.0	grcsp	grcsp_9x5_static_kt0958.txt	grcsp_9x5	grcsp_9x5-side.png	grcsp_9x5-front.png
+9.0	6.0	grcsp	grcsp_9x6_static_pg0945.txt	grcsp_9x6	grcsp_9x6-side.png	grcsp_9x6-front.png
+10.0	6.0	grsn	grsn_10x6_static_rd0779.txt	grsn_10x6	grsn_10x6-side.png	grsn_10x6-front.png
+10.0	7.0	grsn	grsn_10x7_static_rd0787.txt	grsn_10x7	grsn_10x7-side.png	grsn_10x7-front.png
+11.0	10.0	grsn	grsn_11x10_static_2996os.txt	grsn_11x10		
+11.0	6.0	grsn	grsn_11x6_static_rd0665.txt	grsn_11x6	grsn_11x6-side.png	grsn_11x6-front.png
+11.0	7.0	grsn	grsn_11x7_static_2988os.txt	grsn_11x7		
+11.0	8.0	grsn	grsn_11x8_static_rd0657.txt	grsn_11x8	grsn_11x8-side.png	grsn_11x8-front.png
+9.0	4.0	grsn	grsn_9x4_static_2575rd.txt	grsn_9x4		
+9.0	5.0	grsn	grsn_9x5_static_rd0929.txt	grsn_9x5	grsn_9x5-side.png	grsn_9x5-front.png
+9.0	6.0	grsn	grsn_9x6_static_2577rd.txt	grsn_9x6		
+9.0	7.0	grsn	grsn_9x7_static_rd0936.txt	grsn_9x7	grsn_9x7-side.png	grsn_9x7-front.png
+10.0	6.0	gwsdd	gwsdd_10x6_static_jb0712.txt	gwsdd_10x6	gwsdd_10x6-side.png	gwsdd_10x6-front.png
+11.0	7.0	gwsdd	gwsdd_11x7_static_jb0570.txt	gwsdd_11x7	gwsdd_11x7-side.png	gwsdd_11x7-front.png
+2.5	0.8	gwsdd	gwsdd_2.5x0.8_static_0472rd.txt	gwsdd_2.5x0.8	gwsdd_2.5x0.8-side.png	gwsdd_2.5x0.8-front.png
+2.5	0.8	gwsdd	gwsdd_2.5x0.8_static_0500rd.txt	gwsdd_2.5x0.8	gwsdd_2.5x0.8-side.png	gwsdd_2.5x0.8-front.png
+2.5	1.0	gwsdd	gwsdd_2.5x1_static_0456rd.txt	gwsdd_2.5x1	gwsdd_2.5x1-side.png	gwsdd_2.5x1-front.png
+3.0	2.0	gwsdd	gwsdd_3x2_static_0392rd.txt	gwsdd_3x2	gwsdd_3x2-side.png	gwsdd_3x2-front.png
+3.0	3.0	gwsdd	gwsdd_3x3_static_0401rd.txt	gwsdd_3x3	gwsdd_3x3-side.png	gwsdd_3x3-front.png
+4.5	3.0	gwsdd	gwsdd_4.5x3_static_0341rd.txt	gwsdd_4.5x3	gwsdd_4.5x3-side.png	gwsdd_4.5x3-front.png
+4.5	4.0	gwsdd	gwsdd_4.5x4_static_0332rd.txt	gwsdd_4.5x4	gwsdd_4.5x4-side.png	gwsdd_4.5x4-front.png
+4.0	2.5	gwsdd	gwsdd_4x2.5_static_0374rd.txt	gwsdd_4x2.5	gwsdd_4x2.5-side.png	gwsdd_4x2.5-front.png
+4.0	4.0	gwsdd	gwsdd_4x4_static_0437rd.txt	gwsdd_4x4	gwsdd_4x4-side.png	gwsdd_4x4-front.png
+5.0	3.0	gwsdd	gwsdd_5x3_static_0323rd.txt	gwsdd_5x3	gwsdd_5x3-side.png	gwsdd_5x3-front.png
+5.0	4.3	gwsdd	gwsdd_5x4.3_static_0428rd.txt	gwsdd_5x4.3	gwsdd_5x4.3-side.png	gwsdd_5x4.3-front.png
+5.0	4.3	gwsdd	gwsdd_5x4.3_static_0493rd.txt	gwsdd_5x4.3	gwsdd_5x4.3-side.png	gwsdd_5x4.3-front.png
+9.0	5.0	gwsdd	gwsdd_9x5_static_0797rd.txt	gwsdd_9x5	gwsdd_9x5-side.png	gwsdd_9x5-front.png
+9.0	5.0	gwsdd	gwsdd_9x5_static_jb1002.txt	gwsdd_9x5	gwsdd_9x5-side.png	gwsdd_9x5-front.png
+10.0	4.7	gwssf	gwssf_10x4.7_static_jb0875.txt	gwssf_10x4.7	gwssf_10x4.7-side.png	gwssf_10x4.7-front.png
+10.0	8.0	gwssf	gwssf_10x8_static_jb0880.txt	gwssf_10x8	gwssf_10x8-side.png	gwssf_10x8-front.png
+11.0	4.7	gwssf	gwssf_11x4.7_static_jb0563.txt	gwssf_11x4.7	gwssf_11x4.7-side.png	gwssf_11x4.7-front.png
+11.0	8.0	gwssf	gwssf_11x8_static_kt0649.txt	gwssf_11x8	gwssf_11x8-side.png	gwssf_11x8-front.png
+8.0	4.3	gwssf	gwssf_8x4.3_static_2869rd.txt	gwssf_8x4.3		
+8.0	6.0	gwssf	gwssf_8x6_static_2862rd.txt	gwssf_8x6		
+9.0	4.7	gwssf	gwssf_9x4.7_static_kt0965.txt	gwssf_9x4.7	gwssf_9x4.7-side.png	gwssf_9x4.7-front.png
+9.0	7.0	gwssf	gwssf_9x7_static_kt0972.txt	gwssf_9x7	gwssf_9x7-side.png	gwssf_9x7-front.png
+11.0	6.0	kavfk	kavfk_11x6_static_2972rd.txt	kavfk_11x6		
+11.0	7.75	kavfk	kavfk_11x7.75_static_2979os.txt	kavfk_11x7.75		
+9.0	4.0	kavfk	kavfk_9x4_static_2591rd.txt	kavfk_9x4		
+9.0	6.0	kavfk	kavfk_9x6_static_2592rd.txt	kavfk_9x6		
+10.0	6.0	kyosho	kyosho_10x6_static_jb0762.txt	kyosho_10x6	kyosho_10x6-side.png	kyosho_10x6-front.png
+10.0	7.0	kyosho	kyosho_10x7_static_rd0770.txt	kyosho_10x7	kyosho_10x7-side.png	kyosho_10x7-front.png
+11.0	7.0	kyosho	kyosho_11x7_static_kt0704.txt	kyosho_11x7	kyosho_11x7-side.png	kyosho_11x7-front.png
+11.0	9.0	kyosho	kyosho_11x9_static_rd0606.txt	kyosho_11x9	kyosho_11x9-side.png	kyosho_11x9-front.png
+9.0	6.0	kyosho	kyosho_9x6_static_jb1039.txt	kyosho_9x6	kyosho_9x6-side.png	kyosho_9x6-front.png
+10.0	7.0	mae	mae_10x7_static_jb0754.txt	mae_10x7	mae_10x7-side.png	mae_10x7-front.png
+11.0	7.0	mae	mae_11x7_static_rd0577.txt	mae_11x7	mae_11x7-side.png	mae_11x7-front.png
+9.0	6.0	mae	mae_9x6_static_kj1017.txt	mae_9x6	mae_9x6-side.png	mae_9x6-front.png
+10.0	6.0	magf	magf_10x6_static_pg0728.txt	magf_10x6	magf_10x6-side.png	magf_10x6-front.png
+10.0	8.0	magf	magf_10x8_static_pg0719.txt	magf_10x8	magf_10x8-side.png	magf_10x8-front.png
+11.0	4.0	magf	magf_11x4_static_3021tg.txt	magf_11x4		
+11.0	5.0	magf	magf_11x5_static_3027tg.txt	magf_11x5		
+11.0	8.0	magf	magf_11x8_static_3033tg.txt	magf_11x8		
+7.0	4.0	magf	magf_7x4_static_2911cm.txt	magf_7x4		
+8.0	4.0	magf	magf_8x4_static_2891rd.txt	magf_8x4		
+9.0	4.0	magf	magf_9x4_static_2586rd.txt	magf_9x4		
+9.0	5.0	magf	magf_9x5_static_2587rd.txt	magf_9x5		
+9.0	7.0	magf	magf_9x7_static_2590rd.txt	magf_9x7		
+10.0	5.0	mas	mas_10x5_static_kt0745.txt	mas_10x5	mas_10x5-side.png	mas_10x5-front.png
+10.0	7.0	mas	mas_10x7_static_kt0737.txt	mas_10x7	mas_10x7-side.png	mas_10x7-front.png
+11.0	6.0	mas	mas_11x6_static_kt0696.txt	mas_11x6	mas_11x6-side.png	mas_11x6-front.png
+11.0	7.0	mas	mas_11x7_static_jb0680.txt	mas_11x7	mas_11x7-side.png	mas_11x7-front.png
+11.0	8.0	mas	mas_11x8_static_rd0672.txt	mas_11x8	mas_11x8-side.png	mas_11x8-front.png
+9.0	5.0	mas	mas_9x5_static_pg0900.txt	mas_9x5	mas_9x5-side.png	mas_9x5-front.png
+9.0	6.0	mas	mas_9x6_static_2634rd.txt	mas_9x6		
+9.0	7.0	mas	mas_9x7_static_pg0907.txt	mas_9x7	mas_9x7-side.png	mas_9x7-front.png
+11.0	10.0	ma	ma_11x10_static_3050rd.txt	ma_11x10		
+11.0	4.0	ma	ma_11x4_static_rd0593.txt	ma_11x4	ma_11x4-side.png	ma_11x4-front.png
+11.0	6.0	ma	ma_11x6_static_kt0689.txt	ma_11x6	ma_11x6-side.png	ma_11x6-front.png
+11.0	7.0	ma	ma_11x7_static_rd0586.txt	ma_11x7	ma_11x7-side.png	ma_11x7-front.png
+11.0	8.0	ma	ma_11x8_static_pg0598.txt	ma_11x8	ma_11x8-side.png	ma_11x8-front.png
+11.0	9.0	ma	ma_11x9_static_3041ja.txt	ma_11x9		
+9.0	4.0	ma	ma_9x4_static_rd0894.txt	ma_9x4	ma_9x4-side.png	ma_9x4-front.png
+9.0	6.0	ma	ma_9x6_static_rd0886.txt	ma_9x6	ma_9x6-side.png	ma_9x6-front.png
+9.0	8.0	ma	ma_9x8_static_2624rd.txt	ma_9x8		
+4.3	3.5	mit	mit_4.3x3.5_static_0575rd.txt	mit_4.3x3.5		
+5.0	4.0	mit	mit_5x4_static_0362rd.txt	mit_5x4		
+3.2	2.2	mi	mi_3.2x2.2_static_0519rd.txt	mi_3.2x2.2	mi_3.2x2.2-side.png	mi_3.2x2.2-front.png
+4.0	2.7	mi	mi_4x2.7_static_0564rd.txt	mi_4x2.7	mi_4x2.7-side.png	mi_4x2.7-front.png
+5.0	3.5	mi	mi_5x3.5_static_0368rd.txt	mi_5x3.5	mi_5x3.5-side.png	mi_5x3.5-front.png
+2.56	0.79	pltriturbo	pltriturbo_2.56x0.79_static_0566rd.txt	pltriturbo_2.56x0.79		
+11.0	4.0	rusp	rusp_11x4_static_2952os.txt	rusp_11x4		
+11.0	7.0	zin	zin_11x7_static_3008rd.txt	zin_11x7		
+9.0	6.0	zin	zin_9x6_static_2593rd.txt	zin_9x6		
